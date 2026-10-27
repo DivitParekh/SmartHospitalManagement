@@ -1,0 +1,30 @@
+                 HOSPITAL PRESCRIPTION
+==================================================
+Prescription ID : 6
+Prescription Date: 2026-10-27
+Medical Record ID: 2
+Record Date      : 2026-10-27
+--------------------------------------------------
+Patient          : Avishi
+Age / Gender     : 20 / Female
+Blood Group      : +b
+Doctor           : Rahul Shah
+Specialization   : Cardiology
+Diagnosis        : cold
+Instructions     : drink
+
+PRESCRIBED MEDICINES
+--------------------------------------------------
+Medicine : Crosin
+Dosage   : 1
+Duration : 1
+Quantity : 1
+--------------------------------------------------
+Medicine : Crosin
+Dosage   : 1
+Duration : 1
+Quantity : 1
+--------------------------------------------------
+
+Note: This file is generated from the hospital system's saved records.
+Please verify the prescription with the treating doctor before use.
